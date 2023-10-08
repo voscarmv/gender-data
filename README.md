@@ -8,7 +8,7 @@ We use data from digitalgendergap.org to calculate trends and show whether inter
 
 ## Usage
 
-Selec a country from the drop=down menu to visualize the data.
+Selec a country from the drop-down menu to visualize the data.
 
 You may also use our OpenAI prompt to ask questions about why there are such inequalities in any given country.
 
