@@ -4,7 +4,7 @@ Internet acces is not equal accross genders. Our tool aims to provide data to la
 
 ## Methods
 
-We use data from [https://digitalgendergaps.org/](digitalgendergaps.org) to calculate trends and show whether internet access equality is increasing or decreasing in a given country.
+We use data from [digitalgendergaps.org](https://digitalgendergaps.org/) to calculate trends and show whether internet access equality is increasing or decreasing in a given country.
 
 ## Usage
 
