@@ -9,4 +9,6 @@ const API = axios.create({
     }
   });
 
+  // change
+
   export const fetchInit = async () => await API.get(`/init`);
